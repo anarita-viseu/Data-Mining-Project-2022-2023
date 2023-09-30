@@ -1,6 +1,6 @@
 # Data-Mining-Project-2022-2023
 
-Group project for the Data Mining course of the Master's Degree in Data Science and Advanced Analytics.
+Group project for the Data Mining course of the Master's Degree in Data Science and Advanced Analytics at NOVA IMS.
 
 ## Project Description
 A2Z Insurance (A2Z) is a portuguese long standing insurance company that serves a wide array of insurance services: Motor, Household, Health, Life and Work Compensation. Although A2Z primarily serves portuguese customers, a significant portion of their customer acquisition comes from their web site. Customers can sign up to A2Z services through their branches, by telephone, or on the web site.
